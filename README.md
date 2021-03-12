@@ -3,3 +3,5 @@ Multi container application with Nginx, React, Node and Mongo DB. This repositor
 
 ## Technical Architecture Diagram
 ![Alt text](./multi-container-tech-arch.png?raw=true "Technical Architecture Diagram")
+
+https://www.youtube.com/watch?v=nhqcecpi47s
